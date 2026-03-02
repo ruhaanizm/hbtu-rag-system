@@ -1,0 +1,179 @@
+[
+    {
+        "program_id": "btech_cse",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Computer Science & Engineering",
+        "aliases": [
+            "CSE",
+            "Computer Science"
+        ],
+        "intake": 81,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_it",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Information Technology",
+        "aliases": [
+            "IT"
+        ],
+        "intake": 80,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_civil",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Civil Engineering",
+        "aliases": [
+            "CE"
+        ],
+        "intake": 81,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_me",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Mechanical Engineering",
+        "aliases": [
+            "ME"
+        ],
+        "intake": 81,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_ee",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Electrical Engineering",
+        "aliases": [
+            "EE"
+        ],
+        "intake": 80,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_et",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Electronics Engineering",
+        "aliases": [
+            "ET",
+            "ECE"
+        ],
+        "intake": 81,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_chemical_eng",
+        "school": "School of Chemical Technology",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Chemical Engineering",
+        "aliases": [
+            "CHE"
+        ],
+        "intake": 78,
+        "lateral_entry": true,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "btech_biotech",
+        "school": "School of Engineering",
+        "program_level": "UG",
+        "program_type": "B.Tech",
+        "branch": "Biotechnology",
+        "aliases": [
+            "Biotech"
+        ],
+        "intake": 75,
+        "lateral_entry": false,
+        "admission_mode": "JEE Main",
+        "priority": 10
+    },
+    {
+        "program_id": "bpharm",
+        "school": "Pharmacy",
+        "program_level": "UG",
+        "program_type": "B.Pharm",
+        "branch": "Bachelor of Pharmacy",
+        "aliases": [
+            "B Pharma",
+            "BPharm"
+        ],
+        "intake": 75,
+        "lateral_entry": false,
+        "admission_mode": "University / National Exam",
+        "priority": 10
+    },
+    {
+        "program_id": "bsms_mathds",
+        "school": "School of Basic & Applied Sciences",
+        "program_level": "UG",
+        "program_type": "BS-MS",
+        "branch": "Mathematics & Data Science",
+        "aliases": [
+            "BSMS"
+        ],
+        "intake": 38,
+        "lateral_entry": false,
+        "admission_mode": "University Entrance",
+        "priority": 10
+    },
+    {
+        "program_id": "bba",
+        "school": "School of Entrepreneurship & Management",
+        "program_level": "UG",
+        "program_type": "BBA",
+        "branch": "Bachelor of Business Administration",
+        "aliases": [],
+        "intake": 75,
+        "lateral_entry": false,
+        "admission_mode": "University",
+        "priority": 10
+    },
+    {
+        "program_id": "mba",
+        "school": "School of Entrepreneurship & Management",
+        "program_level": "PG",
+        "program_type": "MBA",
+        "branch": "Master of Business Administration",
+        "aliases": [],
+        "intake": 240,
+        "lateral_entry": false,
+        "admission_mode": "National Exam / University",
+        "priority": 10
+    },
+    {
+        "program_id": "mca",
+        "school": "School of Engineering",
+        "program_level": "PG",
+        "program_type": "MCA",
+        "branch": "Master of Computer Application",
+        "aliases": [],
+        "intake": 78,
+        "priority": 10
+    }
+]
